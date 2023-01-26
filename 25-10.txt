@@ -1,0 +1,30 @@
+1/ Build 1 API
+2/ Học tiếp 20 projects
+
+
+
+Phải:
+1/ Kurbernetes
+2/ Terraform
+3/ monitoring
+
+
+
+Muốn:
+- Build 1 project microservice (sql + kafka)
+- Deploy -> Kurbernetes
+- CICD
+- Monitoring
+
+
+
+- Không thể sâu được
+
+
+
+
+
+Xin việc cần thời gian! Trong thời gian đó có thể bổ sung những thứ ít quan trọng hơn:
+
+- MySQL
+- Django4 webapp connect to MySQL
