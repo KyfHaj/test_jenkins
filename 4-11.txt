@@ -1,0 +1,21 @@
+- https là gì??
+cách triển khai SSL ntn?
+
+
+- React		+ 		Backend
+
+- Nginx
+- Linux còn lại
+
+
+1/ Web angela	(Code Frontend + 1 phần Backend)
+
+2/ Linux phần còn lại  (Server Linux)
+
+3/ Nginx (Firewall??)
+
+4/ 
+
+
+
+		
