@@ -1,0 +1,26 @@
+CICD là gì?
+devops là gì?
+
+Tại sao ko dùng route53 mà dùng ELB?
+HA, Fault tolerant, Disaster Recovery?
+
+
+Jenkins -> Git webhook ntn?
+	Terraform tại sao lưu state tại S3?
+	Làm sao Terraform biết hiện tại những tài nguyên đang có trên AWS
+
+Các loại EC2 cost??  EC2 spot-instance là theo giờ
+
+Có các loại công ty devops nào?
+
+
+
+
+Triển khai 1 app php dùng service nào?
+Tại sao dùng Aurora. Ai làm ra nó từ đâu?
+Các cách tấn công 1 trang web?
+	security group
+	ddos 1 request nhiều quá
+	quét port
+	SQL injection
+Bắt đọc tiếng Anh?
